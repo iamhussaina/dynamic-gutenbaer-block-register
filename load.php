@@ -8,7 +8,7 @@
  * @package HussainasDynamicBlocks
  * @version     1.0.0
  * @author      Hussain Ahmed Shrabon
- * @license     GPLv2 or later
+ * @license     MIT
  * @link        https://github.com/iamhussaina
  * @textdomain  hussainas
  */
